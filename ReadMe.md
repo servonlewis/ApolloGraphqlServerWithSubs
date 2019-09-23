@@ -1,1 +1,1 @@
-RethinkDB and SocketIO
+Apollo graphql
