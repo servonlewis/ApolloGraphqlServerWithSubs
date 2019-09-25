@@ -29,7 +29,6 @@
 		"nodemon": "^1.19.1",
 		"ramda": "^0.26.1",
 		"request-promise": "^4.2.4",
-		"rethinkdb": "^2.3.3"
 	},
 	"nodemonConfig": {
 		"restartable": "rs"
