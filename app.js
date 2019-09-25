@@ -6,7 +6,7 @@ import cors from 'cors';
 import { ApolloServer } from 'apollo-server-express';
 import { express as voyagerMiddleware } from 'graphql-voyager/middleware';
 const app = express();
-const PORT = 5000;
+const PORT = 8081;
 app.use(cors());
 
 const server = new ApolloServer({
